@@ -41,4 +41,4 @@ jobs:
           echo "- **100% Production Ready:** This blueprint is strictly verified using pure native Kotlin source code structures." >> $GITHUB_STEP_SUMMARY
           echo "- **Google Play Live Validation:** Fully stable pipeline developed over 200+ compilation iterations, currently powering live applications actively running on the Google Play Store." >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "👉 **Get Instant Access to the Full Production Engine & Termux Guide here:** [CloudBuilder Pro on Gumroad](https://cloudbuilderpro.gumroad.com/l/xvbbtp)" >> $GITHUB_STEP_SUMMARY
+          echo "👉 **Get Instant Access to the Full Production Engine & Guide here:** [CloudBuilder Pro on Gumroad](https://cloudbuilderpro.gumroad.com/l/xvbbtp)" >> $GITHUB_STEP_SUMMARY
